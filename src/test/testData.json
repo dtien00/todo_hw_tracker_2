@@ -1,0 +1,148 @@
+{
+    "toDoLists": [
+        {
+            "id": 0,
+            "name": "Not to do",
+            "items": [
+                {
+                    "id": 0,
+                    "description": "Give You Up",
+                    "due_date": "2019-09-30",
+                    "status": "complete"
+                },
+                {
+                    "id": 1,
+                    "description": "Say Goodbye",
+                    "due_date": "2019-10-15",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 2,
+                    "description": "Make You Cry",
+                    "due_date": "2019-12-30",
+                    "status": "incomplete"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "House Repairs",
+            "items": [
+                {
+                    "id": 3,
+                    "description": "Repair Leaky Kitchen Sink",
+                    "due_date": "2019-07-11",
+                    "status": "complete"
+                },
+                {
+                    "id": 4,
+                    "description": "Fix Leak in Roof",
+                    "due_date": "2019-10-15",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 5,
+                    "description": "Paint Interior",
+                    "due_date": "2019-11-11",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 6,
+                    "description": "Plant Flowers",
+                    "due_date": "2019-08-17",
+                    "status": "complete"
+                },
+                {
+                    "id": 7,
+                    "description": "Repair Front Door",
+                    "due_date": "2019-10-31",
+                    "status": "incomplete"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Courses to Take",
+            "items": [
+                {
+                    "id": 8,
+                    "description": "CSE 114",
+                    "due_date": "2021-12-31",
+                    "status": "complete"
+                },
+                {
+                    "id": 9,
+                    "description": "CSE 215",
+                    "due_date": "2021-12-31",
+                    "status": "complete"
+                },
+                {
+                    "id": 10,
+                    "description": "AMS 301",
+                    "due_date": "2018-12-31",
+                    "status": "complete"
+                },
+                {
+                    "id": 11,
+                    "description": "CSE 214",
+                    "due_date": "2022-05-31",
+                    "status": "complete"
+                },
+                {
+                    "id": 12,
+                    "description": "AMS 310",
+                    "due_date": "2022-05-31",
+                    "status": "complete"
+                },
+                {
+                    "id": 13,
+                    "description": "CSE 216",
+                    "due_date": "2021-12-31",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 14,
+                    "description": "CSE 220",
+                    "due_date": "2019-12-31",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 15,
+                    "description": "CSE 316",
+                    "due_date": "2022-05-31",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 16,
+                    "description": "CSE 303",
+                    "due_date": "2022-05-31",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 17,
+                    "description": "CSE 380",
+                    "due_date": "2022-05-31",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 18,
+                    "description": "CSE 373",
+                    "due_date": "2022-12-31",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 19,
+                    "description": "CSE 381",
+                    "due_date": "2022-12-31",
+                    "status": "incomplete"
+                },
+                {
+                    "id": 20,
+                    "description": "CSE 416",
+                    "due_date": "2022-12-31",
+                    "status": "incomplete"
+                }
+            ]
+        }
+    ]
+}

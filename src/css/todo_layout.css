@@ -1,0 +1,136 @@
+#root {
+    position:absolute;
+    width:98%;
+    left:1%;
+    height:100%;
+}
+
+#navbar {
+    position:absolute;
+    height: 50px;
+    top:0%;
+    left:0%;
+    width: 100%;
+    height: 5%;
+    margin:auto;
+    padding-left: 10px;
+}
+
+#title-div {
+    position: absolute;
+    top:7px;
+}
+
+#left-sidebar {
+    position:absolute;
+    height:94%;
+    width:13%;
+    top:5.5%;
+    left:0%;
+    padding-left: 1%;
+}
+
+#workspace {
+    position:absolute;
+    height:94%;
+    width:85.5%;
+    top:5.5%;
+    left:13%;
+    padding-left: 15px;
+    padding-right: 25px;
+    grid-column: 2 span 1;
+    grid-row: 2 span 1;
+    display: flex;
+    flex-direction: column;
+}
+
+#left-sidebar-header {
+    padding-top:25px;
+    height:4%;
+    top:3%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    white-space: nowrap;
+}
+
+#todo-lists-list {
+    position:absolute;
+    text-align: center;
+    height:80%;
+    width:100%;
+    top: 8%;
+}
+
+.todo-list-button {
+    padding-top:20px;
+    height: auto;
+    width: 80%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    /* text-overflow: clip; */
+}
+
+#left-sidebar-controls {
+    text-align: right;
+}
+
+#todo-list-header-card {
+    padding-top:25px;
+    height:30px;
+    width: 98%;
+}
+
+#todo-list-items-div {
+    height:96%;
+    top:7%;
+    display: flex;
+    flex-direction: column;
+}
+
+.list-item-card {
+    padding-top:20px;
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+}
+.list-item-card-head {
+    padding-top: 20px;
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+}
+.item-col {
+    width: 25%;
+}
+
+.list-controls-col {
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: nowrap;
+}
+
+.todo-button {
+    width:24%;
+    white-space: nowrap;
+}
+
+.list-item-control {
+    width: 20%;
+}
+
+.status-complete{
+    width: 7%;
+}
+
+.status-incomplete{
+    width: 7%;
+}
+
+/* .button-group {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    width:10%;
+    padding: 4%;
+} */
